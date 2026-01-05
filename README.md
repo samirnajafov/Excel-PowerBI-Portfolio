@@ -1,7 +1,7 @@
 # Excel-PowerBI-Portfolio
 👤 **Ad Soyad:** Samir Nəcəfov  
 🎯 **Sahə:** Data Analyst (Excel & Power BI)  
-🛠 **Alətlər:** Excel, Power BI, DAX, Power Query, SQL  
+🛠 **Alətlər:** Excel, Power BI, DAX, Power Query 
 
 ---
 
