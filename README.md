@@ -33,4 +33,4 @@ Real dataset-lər üzərində dashboard və hesabatlar hazırlayıram.
 
 🔗 **Linklər:**
 - Power BI Dashboard: https://app.powerbi.com/groups/me/reports/4c33923a-7fa3-4588-8959-aea6f117b0ae?ctid=981029b1-c53b-492a-be30-3645968cea76&pbi_source=linkShare
-- Excel faylı: https://lnkd.in/eZzPqbcS
+- Dataset: https://lnkd.in/eZzPqbcS
