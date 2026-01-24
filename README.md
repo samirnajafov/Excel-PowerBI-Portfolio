@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="Images/profile.jpg" width="150"/>
+</p>
 # Excel-PowerBI-Portfolio
 👤 **Ad Soyad:** Samir Nəcəfov  
 🎯 **Sahə:** Data Analyst (Excel & Power BI)  
