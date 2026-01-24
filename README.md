@@ -34,6 +34,7 @@ Real dataset-lər üzərində dashboard və hesabatlar hazırlayıram.
 🔗 **Linklər:**
 - Power BI Dashboard: https://app.powerbi.com/groups/me/reports/4c33923a-7fa3-4588-8959-aea6f117b0ae?ctid=981029b1-c53b-492a-be30-3645968cea76&pbi_source=linkShare
 - Dataset: https://lnkd.in/eZzPqbcS
+<img width="800" height="452" alt="E-commerce Sales Analytics" src="https://github.com/user-attachments/assets/215c466a-46b5-48dc-87e4-ff68304e1548" />
 
 ### 2️ Excel Sales Analysis Dashboard
 📌 **Məqsəd:** Satış göstəricilərinin analizi  
