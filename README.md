@@ -50,3 +50,4 @@ Real dataset-lər üzərində dashboard və hesabatlar hazırlayıram.
 - İllik satış trendləri
 - Top məhsullar
 - Aylar üzrə satışların müqayisəsi
+- <img width="1143" height="440" alt="Sales Analysis" src="https://github.com/user-attachments/assets/62bf9daa-5f65-458c-b8e2-a6b96a4d4e9e" />
