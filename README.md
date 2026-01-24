@@ -15,7 +15,7 @@ Real dataset-lər üzərində dashboard və hesabatlar hazırlayıram.
 
 ## 📁 Layihələr
 
-### 1️⃣ Sales Performance Dashboard
+### 1️ Power BI Sales Performance Dashboard
 📌 **Məqsəd:** Satış göstəricilərinin analizi  
 📊 **Alətlər:** Excel, Power BI  
 🗂 **Dataset:** Satış məlumatları  
@@ -34,3 +34,19 @@ Real dataset-lər üzərində dashboard və hesabatlar hazırlayıram.
 🔗 **Linklər:**
 - Power BI Dashboard: https://app.powerbi.com/groups/me/reports/4c33923a-7fa3-4588-8959-aea6f117b0ae?ctid=981029b1-c53b-492a-be30-3645968cea76&pbi_source=linkShare
 - Dataset: https://lnkd.in/eZzPqbcS
+
+### 2️ Excel Sales Analysis Dashboard
+📌 **Məqsəd:** Satış göstəricilərinin analizi  
+📊 **Alətlər:** Pivot table  
+🗂 **Dataset:** Satış məlumatları  
+
+**Gördüyüm işlər:**
+- Mövcus fayldan məlumatın çəkilməsi
+- Pivot table yaratmaq
+- Dashboard hazırlamaq
+
+📈 **Nəticə / Insight:**
+- Ən çox satış edən regionlar
+- İllik satış trendləri
+- Top məhsullar
+- Aylar üzrə satışların müqayisəsi
