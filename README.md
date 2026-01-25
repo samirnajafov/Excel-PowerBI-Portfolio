@@ -19,7 +19,6 @@ Real dataset-lər üzərində dashboard və hesabatlar hazırlayıram.
 <img width="800" height="452" alt="E-commerce Sales Analytics" src="https://github.com/user-attachments/assets/215c466a-46b5-48dc-87e4-ff68304e1548" />
 
 
-
 📌 **Məqsəd:** Satış göstəricilərinin analizi  
 📊 **Alətlər:** Excel, Power BI  
 🗂 **Dataset:** Satış məlumatları  
