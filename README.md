@@ -30,9 +30,9 @@ Real dataset-lər üzərində dashboard və hesabatlar hazırlayıram.
 - DAX:  YoY, KPI
 
 📈 **Nəticə / Insight:**
-- Ən çox satış edən regionlar
-- Aylıq satış trendləri
-- Top məhsullar
+- Ən yüksək satışlar Məhsullar üzrə mebel kateqoriyasına aiddir
+- Ümumi olaraq ən çox məhsullar 2017-ci il və noyabr ayında satılıb
+- Regionlar üzrə ən yüksək satışlar Qərb regionunda olub
 
 🔗 **Linklər:**
 - Power BI Dashboard: https://app.powerbi.com/groups/me/reports/4c33923a-7fa3-4588-8959-aea6f117b0ae?ctid=981029b1-c53b-492a-be30-3645968cea76&pbi_source=linkShare
