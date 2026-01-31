@@ -52,8 +52,6 @@ Real dataset-lər üzərində dashboard və hesabatlar hazırlayıram.
 - Dashboard hazırlamaq
 
 📈 **Nəticə / Insight:**
-- Ən çox satış edən regionlar
-- İllik satış trendləri
-- Top məhsullar
-- Aylar üzrə satışların müqayisəsi
+- Ümumi olaraq ən çox məhsullar 2020-ci il və mart ayında satılıb
+- Ən yüksək satışlar Məhsullar üzrə Product 1 məhsuluna aiddir
 
