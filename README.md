@@ -15,7 +15,33 @@ Real dataset-lər üzərində dashboard və hesabatlar hazırlayıram.
 
 ## 📁 Layihələr
 
-### 1️ Power BI Sales Performance Dashboard
+### 1️ Power BI Financial Performance Dashboard
+<img width="800" height="452" alt="E-commerce Sales Analytics" src="https://github.com/user-attachments/assets/215c466a-46b5-48dc-87e4-ff68304e1548" />
+
+
+📌 **Məqsəd:** Maliyyə göstəricilərinin analizi  
+📊 **Alətlər:** Excel, Power BI  
+🗂 **Dataset:** Maliyyə məlumatları  
+
+**Gördüyüm işlər:**
+- Exceldən məlumatın çəkilməsi
+- Power Query-də data cleaning
+- Cədvəllər arasında əlaqə qurulması
+- Power BI dashboard
+- DAX: SAMEPERIODLASTYEAR,CALCULATE,SUM
+
+📈 **Nəticə / Insight:**
+- Ümumi net satışlar: 119M
+- Ümumi xərc: 102M
+- Mənfəət: 17M (hədəf 20M)
+- Ən yüksək satış olduğu ay: Oktyabr
+- Ən çox satılan məhsul: Paseo (33M)
+- Ən güclü seqment: Government (44%)
+
+🔗 **Linklər:**
+- Dataset: https://lnkd.in/dG9BFmxB
+  
+ ### 1️ Power BI Sales Performance Dashboard
 <img width="800" height="452" alt="E-commerce Sales Analytics" src="https://github.com/user-attachments/assets/215c466a-46b5-48dc-87e4-ff68304e1548" />
 
 
