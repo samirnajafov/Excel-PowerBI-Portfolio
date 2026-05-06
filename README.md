@@ -16,7 +16,7 @@ Real dataset-lər üzərində dashboard və hesabatlar hazırlayıram.
 ## 📁 Layihələr
 
 ### 1️ Power BI Financial Performance Dashboard
-<img width="800" src="https://raw.githubusercontent.com/samirnajafov/Excel-PowerBI-Portfolio/main/Images/Financial%20Performance%20Analysis.jpg" />
+<img width="800" src="https://raw.githubusercontent.com/samirnajafov/Excel-PowerBI-Portfolio/main/Images/Financial%20Performance%20Analysis.jpeg" />
 
 
 📌 **Məqsəd:** Maliyyə göstəricilərinin analizi  
